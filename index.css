@@ -727,6 +727,10 @@ footer{
 
 @media screen and (max-width:550px) {
     .footer-faded-text{
-        font-size: 60px;
+        font-size: 40px;
+    }
+
+    .contact-us{
+        width: 100%;
     }
 }
